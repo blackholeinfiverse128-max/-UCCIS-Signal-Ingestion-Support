@@ -1,0 +1,20 @@
+[
+  {
+    "zone_id": "zone_1",
+    "domain": "traffic",
+    "traffic_density": 85,
+    "violations": 11
+  },
+  {
+    "zone_id": "zone_2",
+    "domain": "water",
+    "traffic_density": 45,
+    "violations": 3
+  },
+  {
+    "zone_id": "zone_3",        
+    "domain": "flooding",
+    "traffic_density": 92,
+    "violations": 18
+  }
+]
